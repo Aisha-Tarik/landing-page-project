@@ -23,6 +23,9 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 ## **Installation**
 
+you can either download this Repository zip file or use the command `git clone https://github.com/Aisha-Tarik/landing-page-project.git` in your terminal
+
+
 ## **Usage**
 
 you can add as many sections as you want as long as it's inside `<main></main>` element and has an ID
